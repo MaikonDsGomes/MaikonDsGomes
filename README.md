@@ -24,34 +24,50 @@ Tenho interesse em back-end com Java, APIs REST, bancos relacionais e soluções
 📍 São Paulo, SP
 
 ---
-
 ## 🛠️ Tecnologias e ferramentas
 
-**Back-end**
-![Java 21](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white)
-![Java 8](https://img.shields.io/badge/Java_8_(legados)-5382A1?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
-**Front-end**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
-**Dados**
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-**Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <img height="25" src="https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white" alt="Java 21">
+      <img height="25" src="https://img.shields.io/badge/Java_8_(legados)-5382A1?logo=openjdk&logoColor=white" alt="Java 8">
+      <img height="25" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+      <img height="25" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img height="25" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <img height="25" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+      <img height="25" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td>
+      <img height="25" src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img height="25" src="https://img.shields.io/badge/AWS-232F3E?logoColor=white" alt="AWS">
+      <img height="25" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+      <img height="25" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td>
+      <img height="25" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+      <img height="25" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira">
+    </td>
+  </tr>
+</table>
 
 > ☕ **Java 8** em sistemas legados (manutenção, sustentação e correção de incidentes) e **Java 21** em projetos novos.
-
 ---
 
 ## 💼 Experiência
