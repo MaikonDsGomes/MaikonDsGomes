@@ -3,7 +3,6 @@
 <p align="center">
 Desenvolvedor de Software | Back-end Java | AWS
 </p>
----
 
 ## 👨‍💻 Sobre mim
 
