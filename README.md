@@ -67,16 +67,6 @@ Tenho interesse em back-end com Java, APIs REST, bancos relacionais e soluções
   </tr>
 </table>
 
-> ☕ **Java 8** em sistemas legados (manutenção, sustentação e correção de incidentes) e **Java 21** em projetos novos.
----
-
-## 💼 Experiência
-
-**Desenvolvedor de Software I — Solutis**
-- Sustentação e análise de incidentes em ambiente de produção
-- Desenvolvimento e manutenção de APIs REST e integrações entre sistemas
-- Atuação em projetos para clientes de grande porte
-
 ---
 
 ## 🚀 Projetos em destaque
