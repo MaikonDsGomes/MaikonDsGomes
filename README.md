@@ -91,4 +91,3 @@ Pipeline agêntico que automatiza a aferição de Pontos de Função seguindo a 
 ## 📫 Contato
 
 - LinkedIn: [Maikon Douglas](https://www.linkedin.com/in/maikon-douglas-2a5946200/)
-- GitHub: [MaikonDsGomes](https://github.com/MaikonDsGomes)
